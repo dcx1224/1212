@@ -53,4 +53,4 @@
 
 无堆砌，用户体验优先，Google易识别主题。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dcx1224/1212 ）</span>
